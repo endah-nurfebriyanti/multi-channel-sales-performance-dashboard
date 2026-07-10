@@ -23,7 +23,7 @@ An interactive **Business Intelligence Dashboard** built using **Google Looker S
 
 **Google Looker Studio**
 
-YOUR_LOOKER_STUDIO_LINK
+https://datastudio.google.com/u/0/reporting/c192aa6d-5644-49a2-a53d-9ed69211c85e/page/gvvwF
 
 ---
 
