@@ -12,7 +12,7 @@ An interactive **Business Intelligence Dashboard** built using **Google Looker S
 # 📸 Dashboard Preview
 
 <p align="center">
-    <img src="images/dashboard.png" width="100%">
+    <img src="images/multi-channel-dashboard.png" width="100%">
 </p>
 
 ---
