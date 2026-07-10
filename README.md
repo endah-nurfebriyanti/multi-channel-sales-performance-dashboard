@@ -3,8 +3,7 @@
 ![Google Looker Studio](https://img.shields.io/badge/Google%20Looker%20Studio-Visualization-4285F4?logo=google&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Portfolio-success)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Dashboard-blueviolet)
-![Sales Analytics](https://img.shields.io/badge/Sales-Analytics-orange)
-![Interactive Dashboard](https://img.shields.io/badge/Interactive-Dashboard-red)
+
 
 An interactive **Business Intelligence Dashboard** built using **Google Looker Studio** to analyze sales performance across multiple e-commerce marketplaces. The dashboard integrates transactional data from **Shopee, Tokopedia, Lazada, and Blibli**, enabling users to monitor key performance indicators (KPIs), compare marketplace performance, evaluate refund trends, and identify high-performing products to support data-driven decision making.
 
